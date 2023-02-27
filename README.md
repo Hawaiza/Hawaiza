@@ -1,5 +1,6 @@
+
 <h1 align="center">Hi 👋, I'm Hawaiza Siddiqui</h1>
-<h3 align="center">A passionate</h3>
+<h3 align="center">An Ardent Web and App Developer and a Keen Learner.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hawaiza&label=Profile%20views&color=0e75b6&style=flat" alt="hawaiza" /> </p>
 
