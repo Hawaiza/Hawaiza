@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Hawaiza Siddiqui</h1>
 <h3 align="center">An Ardent Web and App Developer and a Keen Learner.</h3>
 
@@ -6,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **MERN, App Development**
+- 💬 Ask me about **Java, Python, Node.js, Express.js, MongoDB, React.js**
 
 - 📫 How to reach me **hawaiza.siddiqui@gmail.com**
 
