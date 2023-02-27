@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, Python, Node.js, Express.js, MongoDB, React.js**
 
-- 📫 How to reach me **hawaiza.siddiqui@gmail.com**
+- 📫 How to reach me: **hawaiza.siddiqui@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
