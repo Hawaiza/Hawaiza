@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hawaiza&show_icons=true&locale=en" alt="hawaiza" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=hawaiza&" alt="hawaiza" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hawaiza&" alt="hawaiza" /></p>
