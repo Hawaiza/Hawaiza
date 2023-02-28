@@ -19,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hawaiza&show_icons=true&locale=en&layout=compact" alt="hawaiza" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hawaiza&show_icons=true&locale=en" alt="hawaiza" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hawaiza&show_icons=true&locale=en" alt="hawaiza" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hawaiza&" alt="hawaiza" /></p>
+<p><img align="center" src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=hawaiza&" alt="hawaiza" /></p>
